@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Cross.png" />
+    <None Remove="Images\Nougth.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyLibraryNP\MyLibraryNP.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Nougth.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Cross.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

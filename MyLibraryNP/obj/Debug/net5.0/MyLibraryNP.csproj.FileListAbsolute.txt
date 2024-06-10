@@ -1,0 +1,48 @@
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.deps.json
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.dll
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\bin\Debug\net5.0\ref\MyLibraryNP.dll
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.pdb
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csprojAssemblyReference.cache
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.GeneratedMSBuildEditorConfig.editorconfig
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfoInputs.cache
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfo.cs
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.CoreCompileInputs.cache
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.dll
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\ref\MyLibraryNP.dll
+F:\ШАГ\C# NP\HW_03_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.pdb
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.deps.json
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\ref\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.pdb
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csprojAssemblyReference.cache
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.GeneratedMSBuildEditorConfig.editorconfig
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfoInputs.cache
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfo.cs
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.CoreCompileInputs.cache
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\ref\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.pdb
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.deps.json
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.dll
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.pdb
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.AssemblyReference.cache
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.GeneratedMSBuildEditorConfig.editorconfig
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfoInputs.cache
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfo.cs
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.CoreCompileInputs.cache
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.dll
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\refint\MyLibraryNP.dll
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.pdb
+G:\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\ref\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.deps.json
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\bin\Debug\net5.0\MyLibraryNP.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.AssemblyReference.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfoInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.AssemblyInfo.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.csproj.CoreCompileInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\refint\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\MyLibraryNP.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\MyLibraryNP\obj\Debug\net5.0\ref\MyLibraryNP.dll

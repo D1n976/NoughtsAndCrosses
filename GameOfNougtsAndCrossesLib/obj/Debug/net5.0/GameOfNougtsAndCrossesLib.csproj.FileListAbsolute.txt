@@ -1,0 +1,12 @@
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0\GameOfNougtsAndCrossesLib.deps.json
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0\GameOfNougtsAndCrossesLib.dll
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0\ref\GameOfNougtsAndCrossesLib.dll
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0\GameOfNougtsAndCrossesLib.pdb
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.csprojAssemblyReference.cache
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.AssemblyInfoInputs.cache
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.AssemblyInfo.cs
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.csproj.CoreCompileInputs.cache
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.dll
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\ref\GameOfNougtsAndCrossesLib.dll
+C:\Users\27488\source\repos\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0\GameOfNougtsAndCrossesLib.pdb

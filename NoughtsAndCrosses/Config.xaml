@@ -1,0 +1,27 @@
+﻿<Window x:Class="NoughtsAndCrosses.Config"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoughtsAndCrosses"
+        mc:Ignorable="d"
+        Title="Config" Height="200" Width="350">
+    <DockPanel>
+        <Button MinHeight="50" DockPanel.Dock="Bottom" Click="Button_Accept_Click">Подтведить</Button>
+        <CheckBox DockPanel.Dock="Bottom" Checked="CheckBox_Checked" x:Name="localHostCheckBox">Использовать localhost</CheckBox>
+        <UniformGrid Rows="3">
+            <StackPanel>
+                <TextBlock>IP-адрес или доменное имя сервера</TextBlock>
+                <TextBox Text="{Binding IpAddress}" x:Name="ipAdd"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock>Номер порта сервера</TextBlock>
+                <TextBox Text="{Binding Port}" x:Name="port"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock>Имя игрока</TextBlock>
+                <TextBox Text="{Binding Name}"/>
+            </StackPanel>
+        </UniformGrid>
+    </DockPanel>
+</Window>

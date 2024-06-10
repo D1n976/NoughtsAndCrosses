@@ -1,0 +1,87 @@
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.exe
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.deps.json
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.json
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.dev.json
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\ref\NoughtsAndCrosses.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.g.cs
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\App.g.cs
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.cache
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.lref
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.baml
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.baml
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.g.resources
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.GeneratedMSBuildEditorConfig.editorconfig
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfoInputs.cache
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfo.cs
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CopyComplete
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\ref\NoughtsAndCrosses.dll
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.genruntimeconfig.cache
+F:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csprojAssemblyReference.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.exe
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.deps.json
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.json
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.dev.json
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.dll
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.dll
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.AssemblyReference.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.g.cs
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\App.g.cs
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.lref
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.baml
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.baml
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.g.resources
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.GeneratedMSBuildEditorConfig.editorconfig
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfoInputs.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfo.cs
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CopyComplete
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.dll
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\refint\NoughtsAndCrosses.dll
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.genruntimeconfig.cache
+G:\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\ref\NoughtsAndCrosses.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.exe
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.deps.json
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.json
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.runtimeconfig.dev.json
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.AssemblyReference.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.g.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\App.g.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses_MarkupCompile.lref
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\Config.baml
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.g.resources
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfoInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.AssemblyInfo.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.csproj.CopyComplete
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\refint\NoughtsAndCrosses.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\NoughtsAndCrosses.genruntimeconfig.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\NoughtsAndCrosses\obj\Debug\net5.0-windows\ref\NoughtsAndCrosses.dll

@@ -1,0 +1,48 @@
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.deps.json
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\ref\GameOfNougtsAndCrossesLib.dll
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.dll
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csprojAssemblyReference.cache
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.g.resources
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfoInputs.cache
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfo.cs
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CoreCompileInputs.cache
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CopyComplete
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\ref\GameOfNougtsAndCrossesLib.dll
+F:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.deps.json
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.dll
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.AssemblyReference.cache
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.g.resources
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfoInputs.cache
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfo.cs
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CoreCompileInputs.cache
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CopyComplete
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\refint\GameOfNougtsAndCrossesLib.dll
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+G:\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\ref\GameOfNougtsAndCrossesLib.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.deps.json
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\bin\Debug\net5.0-windows\MyLibraryNP.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.AssemblyReference.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.g.resources
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfoInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.AssemblyInfo.cs
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CoreCompileInputs.cache
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.csproj.CopyComplete
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\refint\GameOfNougtsAndCrossesLib.dll
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\GameOfNougtsAndCrossesLib.pdb
+D:\Лекции\ШАГ Programms\ШАГ\C# NP\Exam_NP\GameOfNougtsAndCrossesLib\obj\Debug\net5.0-windows\ref\GameOfNougtsAndCrossesLib.dll
